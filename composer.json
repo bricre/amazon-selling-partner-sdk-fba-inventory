@@ -1,6 +1,5 @@
 {
   "name": "bricre/amazon-selling-partner-sdk-fba-inventory",
-  "version": "v1",
   "description": "API client generated from OpenAPI definition from Amazon Selling Partner API for FBA Inventory",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
